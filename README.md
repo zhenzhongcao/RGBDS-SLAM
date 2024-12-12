@@ -7,9 +7,10 @@ Institute of Robotics and Automatic Information System, Nankai University, Tianj
 Tianjin Key Laboratory of Intelligent Robotics, Tianjin 300350, China<sup>2</sup> <br>
 TBI center, Nankai University, Tianjin 300350, China<sup>3</sup> <br>
 
-<img src="https://github.com/zhenzhongcao/RGBDS-SLAM/blob/main/demo/demo1-office4.gif" alt="demo1-room0" width="33%">
-<img src="https://github.com/zhenzhongcao/RGBDS-SLAM/blob/main/demo/demo1-room0.gif" alt="demo1-office4" width="33%">
-
+<div>
+<img src="https://github.com/zhenzhongcao/RGBDS-SLAM/blob/main/demo/demo1-office4.gif" alt="demo1-room0" width="45%">
+<img src="https://github.com/zhenzhongcao/RGBDS-SLAM/blob/main/demo/demo1-room0.gif" alt="demo1-office4" width="45%">
+</div>
 <!-- ![image](https://github.com/zhenzhongcao/RGBDS-SLAM/blob/main/demo/RGBDS-SLAM.gif "rgbds-slam") -->
 
 <br>
